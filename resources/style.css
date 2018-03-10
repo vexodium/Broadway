@@ -18,6 +18,11 @@ h1 {
   font-family: Helvetica;
   font-size: 18px;
   color:white;
+  font-weight: bold;
+}
+
+a {
+  color:white;
 }
 
 h2 {
@@ -44,4 +49,16 @@ h3 {
 p {
   font-family: Helvetica;
   font-size: 14px;
+}
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.copyright {
+  font-size: 11px;
 }
